@@ -1,6 +1,8 @@
 👋 Priyaa D
 
+
 💼 B.Tech CSE Student | Web and App Developer | Skill-builder
+
 
 📌 About Me
 
@@ -10,6 +12,7 @@ Though I entered engineering without a computer science background in school, I 
 I love building small projects, learning new technologies, and understanding how things work from the core — from programming logic to development and deployment. My goal is to create useful tools, websites, and apps that help learners like me grow in the tech field.
 
 ---
+
  🚀 Skills
 
 * **Programming:** Python, C, Java 
@@ -18,6 +21,7 @@ I love building small projects, learning new technologies, and understanding how
 * **Learning Next:** Full Stack, Cloud, Networking
 
 ---
+
 
 ## 🔥 Projects
 
@@ -34,6 +38,7 @@ I love building small projects, learning new technologies, and understanding how
   *(More coming soon… I build and learn continuously!)*
 
 ---
+
 
 📬 Contact
 
