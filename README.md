@@ -38,7 +38,9 @@ I love building small projects, learning new technologies, and understanding how
 📬 Contact
 
 📧 Email: priyaadhamu@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/priyaad/
+
 🔗 GitHub: https://github.com/PriyaaDhamu
 
 
