@@ -15,9 +15,12 @@ I love building small projects, learning new technologies, and understanding how
 
  🚀 Skills
 
-* **Programming:** Python, C, Java 
+* **Programming:** Python, C, Java
+  
 * **Web Development:** HTML, CSS, JavaScript (learning)
+  
 *Tools & Platforms:** GitHub, VS Code, Android Studio
+
 * **Learning Next:** Full Stack, Cloud, Networking
 
 ---
