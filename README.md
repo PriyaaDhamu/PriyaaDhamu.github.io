@@ -41,9 +41,9 @@ Learning Next: Cloud,Azure
 
 5.FolioForge - A professional, AI-enhanced portfolio builder. Create, edit, and preview your resume or portfolio in real-time with smart suggestions.
 
-  *(More coming soon… I build and learn continuously!)*
+  (More coming soon… I build and learn continuously!)
 
----
+
 
 
 📬 Contact
